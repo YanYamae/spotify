@@ -1,0 +1,21 @@
+p{
+    margin-bottom: 5px;
+}
+label{
+    font-size: 40px;
+    font-family: Dancing Script;
+}
+input{
+    margin: 3px;
+    border-radius: 5px;
+}
+button{
+    margin: 5px;
+}
+header{
+    padding-bottom: 10%;
+    background-color: #c8b8ff;
+}
+select{
+    float: right;
+}
